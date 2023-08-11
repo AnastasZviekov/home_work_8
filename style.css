@@ -1,0 +1,20 @@
+.animals{
+    margin-bottom: 20px;
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+.food{
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+caption {
+    margin-bottom: 5px;
+}
+
+td, td {
+    padding: 3px;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
